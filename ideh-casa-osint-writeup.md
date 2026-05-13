@@ -1,6 +1,6 @@
 # CTF Write-up: ideh.casa — OSINT Challenge
 
-**Write-up Author:** Amine Brihi (AKA NOBODY404)  
+**Write-up Author:** Amine Brihi (AKA NOBODY_0x1)  
 **Challenge Authors:** Dreekos, BSxNinja, Cyber Command  
 **CTF:** IDEH-CTF-2026  
 **Category:** OSINT  
@@ -171,7 +171,7 @@ Remember: In OSINT, the past is never truly past. Keep digging, keep learning, a
 ---
 
 ## 📞 Connect With Me
-- **Medium:** [NOBODY404](https://medium.com/@n0b0dy4o4/ctf-write-up-ideh-casa-osint-challenge-05e83ca70f49)
+- **Medium:** [NOBODY404](https://medium.com/@nobody_0x1)
 - **LinkedIn:** [amine-brihi](https://www.linkedin.com/in/amine-brihi)
 
-*Writeup created with ❤️ by NOBODY404 | January 2026*
+*Writeup created with ❤️ by NOBODY_0x1 | January 2026*
