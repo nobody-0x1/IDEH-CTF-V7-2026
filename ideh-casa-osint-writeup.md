@@ -171,7 +171,7 @@ Remember: In OSINT, the past is never truly past. Keep digging, keep learning, a
 ---
 
 ## 📞 Connect With Me
-- **Medium:** [NOBODY404](https://medium.com/@nobody_0x1)
+- **Medium:** [NOBODY_0x1](https://medium.com/@nobody_0x1)
 - **LinkedIn:** [amine-brihi](https://www.linkedin.com/in/amine-brihi)
 
 *Writeup created with ❤️ by NOBODY_0x1 | January 2026*
